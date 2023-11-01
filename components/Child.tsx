@@ -24,7 +24,7 @@ export default function Child() {
 
   return (
     <>
-      <div className="relative isolate overflow-hidden pt-14 bg-gray-800 min-h-screen px-5">
+      <div className="relative isolate overflow-hidden pt-14 min-h-screen px-5">
         <div className="mx-auto max-w-2xl py-20 flex flex-col items-center">
 
           <h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl">
